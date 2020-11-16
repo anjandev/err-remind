@@ -7,7 +7,7 @@ This is my personal fork of err-reminders. I fixed various bugs and added persis
 [Original Code Repository](https://github.com/kdknowlton/err-reminders.git)
 
 I usually use sr.ht to develop. Please send patches to my email (anjan@momi.ca).
-[sr.ht repository](https://git.sr.ht/~anjan/err-reminders)
+[sr.ht repository](https://git.sr.ht/~anjan/err-remind)
 
 ErrBot plugin to get and set scheduled reminders over chat.  
 You NEED to change the locale, if you are not from germany.  
